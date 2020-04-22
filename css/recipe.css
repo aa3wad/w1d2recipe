@@ -1,0 +1,47 @@
+.headings 
+{
+    background-color: #F0F0F0;
+    text-decoration: underline;
+    color: #A4A400;
+    font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+}
+
+body > header > div.headings
+{
+    font-weight: bold 22pt;
+    text-align: center;
+}
+
+body > main > div.headings
+{
+    font-weight: bold 18pt;
+    text-align: left;
+}
+ 
+body div a   
+{
+    color: #A4A400;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.left
+{
+    text-align: left;
+}
+
+.line
+{
+    background-color: black;
+    text-decoration: underline;
+    height: 2px;
+    margin: 10px 10px;
+}
+
+article div
+{
+    background-color: #FFFFA8;
+}
